@@ -1,2 +1,2 @@
 # ETL_DIO_BotSantander
-Criei um projeto de ETL, extraindo dados de um arquivo csv, utilizando IA para criar mensagens personalizadas para cliente, carregando os dados para outro arquivo com mesmo nome, incluindo  "_com_MensagemAI"
+Criei um projeto de ETL, extraindo dados de um arquivo csv, utilizando IA (Gemini), declarando no prompt, que ele é um especialista em marketing bancário, devendo criar mensagem personalizada para clientes, sobre a importância de investimentos.
